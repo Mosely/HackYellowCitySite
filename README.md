@@ -1,5 +1,5 @@
-w# Yellowcity Hack-A-Thon
-Landing page of the Yellowcity Hack-A-Thon, based on work from InOut, India's biggest community hackathon.
+# Yellowcity Hack-A-Thon
+Landing page of the Yellowcity Hack-A-Thon, based on work from InOut, India's biggest community hackathon (see: https://github.com/hackinout/InOut4-landing).
 
 
 ## How to run:
