@@ -1,5 +1,5 @@
-# InOut: India's biggest community hackathon
-Landing page of InOut 4 [WIP]
+w# Yellowcity Hack-A-Thon
+Landing page of the Yellowcity Hack-A-Thon, based on work from InOut, India's biggest community hackathon.
 
 
 ## How to run:
