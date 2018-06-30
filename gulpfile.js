@@ -24,7 +24,8 @@ gulp.task('default', ['browser-sync', 'build'], function () {
 
 gulp.task('browser-sync', function () {
   browserSync.init({
-    server: './public'
+    server: './public',
+    open: false
   })
 })
 
