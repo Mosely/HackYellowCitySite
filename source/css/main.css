@@ -18,7 +18,7 @@ header {
     background-repeat: no-repeat;
     -o-background-size: cover;
     background-position: calc(100% + 326px) calc(100%);
-    background-image: url(../assets/img/background.jpg);
+    background-image: url(../assets/img/background.png);
     min-height: 720px;
 }
 
@@ -411,6 +411,10 @@ footer {
     color: #3a3a62;
 }
 
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+ }
 
 /* Responsiveness */
 
