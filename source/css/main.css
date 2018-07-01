@@ -10,7 +10,7 @@ iframe {
 
 header {
     height: 100vh;
-    background-color: #5252DB;
+    background-color: #82b440;
     min-height: auto;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -18,7 +18,7 @@ header {
     background-repeat: no-repeat;
     -o-background-size: cover;
     background-position: calc(100% + 326px) calc(100%);
-    background-image: url(../assets/img/header.png);
+    background-image: url(../assets/img/background.jpg);
     min-height: 720px;
 }
 
@@ -168,6 +168,10 @@ section {
     margin-top: 0.1em !important;
 }
 
+.sponsor-list {
+    color: #3A3A62;
+    font-size: 32px;
+}
 
 /* About styling */
 
